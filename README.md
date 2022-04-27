@@ -38,7 +38,9 @@ NOTE: The empty Data and Output folders contain a file called ".keep".  This is 
 
 ## Contact us
 
-This is the anonymous version of the manuscript, and therefore contact details have been removed.
+If you have questions or concerns regarding this code, or would like help in re-formatting it for your own use, please do not hesitate to contant the corresponding author at:
+
+elizabeth.duskey@slu.se
 
 ## License
 
