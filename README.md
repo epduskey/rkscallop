@@ -8,7 +8,7 @@ Populations of marine organisms are often characterized by pronounced spatial pa
 
 ## Data
 
-The actual data cannot be made publicly available.  However, the code provided simulate data of similar character.  Many parameters may be manipulated to simulate data that vary widely in nature.  Generally, we used Gaussian functions to approximate peaks in numerical abundance of organisms in space and over and one-dimensional covariate that we refer to as depth.  We also used standard methods to generate autocorrelated residuals.  These were all multiplied to produce means with which we simulated Poisson counts.
+The actual data cannot be made available in a public database, though it is available upon request.  However, the code provided simulate data of similar character.  Many parameters may be manipulated to simulate data that vary widely in nature.  Generally, we used Gaussian functions to approximate peaks in numerical abundance of organisms in space and over and one-dimensional covariate that we refer to as depth.  We also used standard methods to generate autocorrelated residuals.  These were all multiplied to produce means with which we simulated Poisson counts.
 
 ## Requirements
 
