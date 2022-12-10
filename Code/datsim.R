@@ -18,10 +18,10 @@ source("Code/simfuncs.R")
 set.seed(1509)
 
 # Number of unique x-values
-nx = 15
+nx = 10
 
 # Number of unique y-values	
-ny = 15
+ny = 10
 
 # Data scale	
 sc = 100
@@ -48,9 +48,9 @@ k = 0
 s = 0.5
 
 # Choose variogram parameters
-psill = 200
+psill = 20
 rnge = sqrt((max(xscale)-min(xscale))^2+(max(yscale)-min(yscale))^2)/20
-nugget = 5
+nugget = 1
 
 # Choose spatial mean
 zmag = 5
@@ -61,8 +61,8 @@ dmag = 5
 dmu = 0
 
 # Choose sigma values
-zs = 0.4*diag(2)
-ds = 0.8
+zs = 1.0*diag(2)
+ds = 1.0
 
 
 ########## II. Simulate data ##########
