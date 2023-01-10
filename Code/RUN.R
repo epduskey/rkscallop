@@ -4,7 +4,7 @@
 # Last modified: April 26, 2022
 
 # Set working directory
-setwd(paste(mypath, "rkscallop", sep = ""))
+setwd(paste(mypath, "rkscallop-main", sep = ""))
 
 # Source scripts
 # 	datsim: simulates data with variability in space and over depth
