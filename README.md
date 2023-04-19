@@ -1,6 +1,6 @@
 # A Bayesian Approach to Estimating Abundance from Belt Transect Surveys
 
-The rkscallop folder contains all code necessary to run the model found Duskey, Hart, Chang, and Sullivan 2022.  Briefly, the code can simulate density of units of interest over one- and two-dimensional coordinates, here imagined as depth and space, respectively.  The estimation model uses regression kriging in a Bayesian framework in order to estimate parameters of a generalized additive model (GAM) and a variogram with joint probability.
+The rkscallop folder contains all code necessary to run the model found Duskey, Hart, Chang, and Sullivan 2023.  Briefly, the code can simulate density of units of interest over one- and two-dimensional coordinates, here imagined as depth and space, respectively.  The estimation model uses regression kriging in a Bayesian framework in order to estimate parameters of a generalized additive model (GAM) and a variogram with joint probability.
 
 ## Abstract
 
